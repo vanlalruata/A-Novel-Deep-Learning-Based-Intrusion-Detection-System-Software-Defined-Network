@@ -1,4 +1,4 @@
-# A-Novel-Deep-Learning-Based-Intrusion-Detection-System-Software-Defined-Network
+# A Novel Deep-Learning Based Intrusion Detection System: Software Defined Network
 
 ### Dataset used: KDDCup '99', NSL-KDD and UNSW-NB15
 
