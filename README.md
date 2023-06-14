@@ -2,8 +2,13 @@
 
 ### Dataset used: KDDCup '99', NSL-KDD and UNSW-NB15
 
-DOI: [10.1109/3ICT53449.2021.9581404](https://doi.org/10.1109/3ICT53449.2021.9581404)
+# DOI: 
+[10.1109/3ICT53449.2021.9581404]
 
+# URL:
+https://doi.org/10.1109/3ICT53449.2021.9581404
+
+# Datasets:
 * KDDCup '99': [http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 * NSL-KDD: [http://www.unb.ca/cic/datasets/nsl.html](http://www.unb.ca/cic/datasets/nsl.html)
 * UNSW-NB15: [https://research.unsw.edu.au/projects/unsw-nb15-dataset](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
